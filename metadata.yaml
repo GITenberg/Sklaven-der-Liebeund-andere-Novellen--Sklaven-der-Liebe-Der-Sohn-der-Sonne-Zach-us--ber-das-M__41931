@@ -1,0 +1,35 @@
+_repo: Sklaven-der-Liebeund-andere-Novellen--Sklaven-der-Liebe-Der-Sohn-der-Sonne-Zach-us--ber-das-M__41931
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hamsun, Knut
+    aliases:
+    - Thode, Knut
+    - Hamsund, Knut Pedersen
+    - Pedersen, Knut
+    - Gamsun, Knut
+    birthdate: 1859
+    deathdate: 1952
+    gutenberg_agent_id: '2376'
+    url: http://www.gutenberg.org/2009/agents/2376
+    wikipedia: http://en.wikipedia.org/wiki/Knut_Hamsun
+description: ''
+gutenberg_issued: '2013-01-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41931'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcsh 'Short stories'
+- !lcc 'PT'
+tableOfContents: Sklaven der Liebe -- Der Sohn der Sonne -- Zachäus -- Über das Meer
+  -- Ein Erzschelm -- Vater und Sohn.
+title: Sklaven der Liebe, und andere Novellen
+url: http://www.gutenberg.org/ebooks/41931
